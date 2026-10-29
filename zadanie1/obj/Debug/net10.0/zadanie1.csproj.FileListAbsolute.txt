@@ -1,0 +1,14 @@
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.AssemblyInfoInputs.cache
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.AssemblyInfo.cs
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.csproj.CoreCompileInputs.cache
+Z:\tablice i listy\zadanie1\bin\Debug\net10.0\zadanie1.exe
+Z:\tablice i listy\zadanie1\bin\Debug\net10.0\zadanie1.deps.json
+Z:\tablice i listy\zadanie1\bin\Debug\net10.0\zadanie1.runtimeconfig.json
+Z:\tablice i listy\zadanie1\bin\Debug\net10.0\zadanie1.dll
+Z:\tablice i listy\zadanie1\bin\Debug\net10.0\zadanie1.pdb
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.dll
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\refint\zadanie1.dll
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.pdb
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\zadanie1.genruntimeconfig.cache
+Z:\tablice i listy\zadanie1\obj\Debug\net10.0\ref\zadanie1.dll
